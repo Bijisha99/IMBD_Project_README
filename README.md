@@ -1,3 +1,4 @@
+In this project, we aim to analyze the IMDB datasets sourced from Kaggle. We'll leverage Amazon Web Services (AWS) infrastructure, specifically S3 for storing the datasets, EMR for running Spark jobs, and Jupyter Notebook for executing PySpark functions to conduct our analysis. 
 # Here's an overview of the steps involved:
 
 - Creating an S3 Bucket:Create a new bucket on Amazon S3 to store the IMDB datasets obtained from Kaggle.
